@@ -1,3 +1,6 @@
+// Init AOS
+AOS.init();
+
 // Burger menus
 document.addEventListener('DOMContentLoaded', function() {
     // open
